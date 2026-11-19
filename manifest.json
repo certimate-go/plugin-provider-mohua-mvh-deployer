@@ -1,0 +1,17 @@
+{
+  "access_provider_type": "mohua",
+  "binary": "mohua-mvh.exe",
+  "capability": "deploy",
+  "category": "website",
+  "display_name_key": "plugin.mohua-mvh.name",
+  "icon": "mohua.png",
+  "max_core_version": "",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "mohua-mvh",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
